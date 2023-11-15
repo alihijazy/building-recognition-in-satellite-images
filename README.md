@@ -31,9 +31,9 @@ I use a Unet for the baseline model. The U-Net model architecture consists of an
 I trained the baseline model for 5 epochs only since the dataset is large and the training process is highly time consuming.  
 
 ##### Results  
-![Accuracy of the Baseline model]([acc1.png](https://github.com/alihijazy/building-recognition-in-satellite-images/blob/master/images/acc1.png))
-![Precision of the Baseline model]([prec1.png](https://github.com/alihijazy/building-recognition-in-satellite-images/blob/master/images/prec1.png))
-![Loss of the Baseline model]([loss1.png](https://github.com/alihijazy/building-recognition-in-satellite-images/blob/master/images/loss1.png))  
+![acc1.png](https://github.com/alihijazy/building-recognition-in-satellite-images/blob/master/images/acc1.png)
+![prec1.png](https://github.com/alihijazy/building-recognition-in-satellite-images/blob/master/images/prec1.png)
+![loss1.png](https://github.com/alihijazy/building-recognition-in-satellite-images/blob/master/images/loss1.png)  
 
 ##### Performance
 below are the scores if the baseline model:  
