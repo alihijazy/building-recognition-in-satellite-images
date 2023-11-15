@@ -31,9 +31,9 @@ I use a Unet for the baseline model. The U-Net model architecture consists of an
 I trained the baseline model for 5 epochs only since the dataset is large and the training process is highly time consuming.  
 
 ##### Results  
-![Accuracy of the Baseline model](acc1.png)
-![Precision of the Baseline model](prec1.png)
-![Loss of the Baseline model](loss1.png)  
+![Accuracy of the Baseline model]([acc1.png](https://github.com/alihijazy/building-recognition-in-satellite-images/blob/master/images/acc1.png))
+![Precision of the Baseline model]([prec1.png](https://github.com/alihijazy/building-recognition-in-satellite-images/blob/master/images/prec1.png))
+![Loss of the Baseline model]([loss1.png](https://github.com/alihijazy/building-recognition-in-satellite-images/blob/master/images/loss1.png))  
 
 ##### Performance
 below are the scores if the baseline model:  
@@ -45,8 +45,8 @@ below are the scores if the baseline model:
 - Validation loss: 0.081  
   
 ##### Examples
-![Predictions](pred_baseline.png)  
-![Predictions](pred_baseline_2.png)
+![Predictions]([pred_baseline.png](https://github.com/alihijazy/building-recognition-in-satellite-images/blob/master/images/pred_baseline.png))  
+![Predictions]([pred_baseline_2.png](https://github.com/alihijazy/building-recognition-in-satellite-images/blob/master/images/pred_baseline_2.png))
 
 
 #### 2nd Model (Pretrained ResNet-34)
@@ -56,8 +56,8 @@ The second model is a ResNet-34 pretrained on general images and fine-tuned for 
 I trained the baseline model for 10 epochs only since the dataset is large and the training process is highly time consuming.
 
 ##### Results
-![Accuracy of the Baseline model](acc-prec2.png)
-![Loss of the Baseline model](loss2.png)  
+![Accuracy of the Baseline model]([acc-prec2.png](https://github.com/alihijazy/building-recognition-in-satellite-images/blob/master/images/acc-prec2.png))
+![Loss of the Baseline model]([loss2.png](https://github.com/alihijazy/building-recognition-in-satellite-images/blob/master/images/loss2.png))  
   
 ##### Performance
 below are the scores if the 2nd model:  
@@ -69,8 +69,8 @@ below are the scores if the 2nd model:
 - Validation loss: 0.047
 
 ##### Examples
-![Predictions](pred_pretrained.png)  
-![Predictions](pred_pretrained_2.png)
+![Predictions]([pred_pretrained.png](https://github.com/alihijazy/building-recognition-in-satellite-images/blob/master/images/pred_pretrained.png))  
+![Predictions]([pred_pretrained_2.png](https://github.com/alihijazy/building-recognition-in-satellite-images/blob/master/images/pred_pretrained_2.png))
 
 ## Future Enhancements
 In the upcoming phases of our project, we aim to enhance the efficiency of the georeferencing process for downloaded Bing satellite images. Our goal is to introduce an automated georeferencing module, streamlining the task for users.
