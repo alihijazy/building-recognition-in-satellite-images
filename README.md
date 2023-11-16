@@ -72,6 +72,12 @@ below are the scores if the 2nd model:
 ![pred_pretrained.png](https://github.com/alihijazy/building-recognition-in-satellite-images/blob/master/images/pred_pretrained.png)
 !([pred_pretrained_2.png](https://github.com/alihijazy/building-recognition-in-satellite-images/blob/master/images/pred_pretrained_2.png)
 
+## Deployment  
+As a deployment tool I created a local streamlit page where you can paste any coordinates and press download and process, and you will get the mask and the image of the entered coordinates. below is a sample:  
+![image and mask.png](https://github.com/alihijazy/building-recognition-in-satellite-images/blob/master/images/image and mask.png)
+Then this masked is plugged to any GIS software and transformed from raster(image) to a vector file (shapefile) which is a very easy to handle format to fix the errors within the mask. below are the results:  
+![adjusted masks.png](https://github.com/alihijazy/building-recognition-in-satellite-images/blob/master/images/adjusted masks.png)
+
 ## Future Enhancements
 In the upcoming phases of our project, we aim to enhance the efficiency of the georeferencing process for downloaded Bing satellite images. Our goal is to introduce an automated georeferencing module, streamlining the task for users.
 
