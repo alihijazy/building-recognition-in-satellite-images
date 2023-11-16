@@ -46,7 +46,7 @@ below are the scores if the baseline model:
   
 ##### Examples
 ![pred_baseline.png](https://github.com/alihijazy/building-recognition-in-satellite-images/blob/master/images/pred_baseline.png)
-![pred_baseline_2.png](https://github.com/alihijazy/building-recognition-in-satellite-images/blob/master/images/pred_baseline_2.png))
+![pred_baseline_2.png](https://github.com/alihijazy/building-recognition-in-satellite-images/blob/master/images/pred_baseline_2.png)
 
 
 #### 2nd Model (Pretrained ResNet-34)
