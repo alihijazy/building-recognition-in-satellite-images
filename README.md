@@ -79,11 +79,9 @@ Then this masked is plugged to any GIS software and transformed from raster(imag
 ![adjusted masks.png](https://github.com/alihijazy/building-recognition-in-satellite-images/blob/master/images/adjusted%20masks.png)
 
 ## Future Enhancements
-In the upcoming phases of our project, we aim to enhance the efficiency of the georeferencing process for downloaded Bing satellite images. Our goal is to introduce an automated georeferencing module, streamlining the task for users.
+In the upcoming phases of my project, I aim to automate the georeferencing process for downloaded Bing satellite images. This enhancement will eliminate the need for manual georeferencing efforts.
 
-This enhancement will eliminate the need for manual georeferencing efforts. The proposed module will either tap into the geographic information embedded in the image metadata or employ advanced image recognition algorithms. These algorithms will identify distinct features, such as road intersections or prominent landmarks, aiding in the precise spatial alignment of the image.
-
-By automating the georeferencing step, we anticipate significant time savings for users. This enhancement ensures that subsequent GIS operations can rely on accurate geographical referencing. As a result, our users can focus more on the digitization process, knowing that the georeferencing aspect is seamlessly handled by the system.
+By automating the georeferencing step, I anticipate significant time savings for users. This enhancement ensures that subsequent GIS operations can rely on accurate geographical referencing. As a result, users can focus more on the digitization process, knowing that the georeferencing aspect is seamlessly handled by the system.
 
 
 
