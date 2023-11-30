@@ -1,5 +1,7 @@
 # Building Detection in Satellite Images
 
+![adjusted masks.png](https://github.com/alihijazy/building-recognition-in-satellite-images/blob/master/images/adjusted%20masks.png)
+
 ## Project Overview
 
 ### Introduction
